@@ -92,7 +92,7 @@ movies = pd.concat([movies, overviewVector], axis=1)
 
 # Export Movie Vector to CSV File
 movieVector = pd.concat([movies_df['id'], movies], axis=1)
-movieVector.to_csv('movie.csv', index=False)
+movieVector.to_csv('movies_vec.csv', index=False)
 
 
 # Movies Neural Network
