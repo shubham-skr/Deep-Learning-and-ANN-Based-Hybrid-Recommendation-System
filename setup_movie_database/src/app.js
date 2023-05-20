@@ -4,7 +4,7 @@ const Movie = require('./models/movie');
 
 //const EPOCH = new Date(2023, 12, 31).getTime();
 
-const API_KEY = '';
+const API_KEY = '56317bab93f0f5879be5a5dac3f31401';
 
 const genre = {
   28: 'Action',
