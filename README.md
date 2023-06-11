@@ -15,7 +15,7 @@ While these approaches have their merits but they also possess several limitatio
 
 <br />
 
-To overcome these limitations, I developed an advanced model – Deep Learning and Artificial Neural Network based Hybrid recommendation system to make more accurate, relevant, and personalized recommendations. (through the help of Machine Learning Specialization, by DeepLearning.AI and Stanford Online, on Coursera).
+To overcome these limitations, I developed an advanced model – Deep Learning and Artificial Neural Network based Hybrid recommendation system to make more accurate, relevant, and personalized recommendations. (through the help of Machine Learning Specialization, by DeepLearning.AI and Stanford University, on Coursera).
 <br/>
 
 It combines deep neural network based collaborative filtering and content-based models, and leverages the exceptional capability and power of Google’s BERT language transformer to capture the relationship between movies with high precision.
