@@ -17,14 +17,20 @@ It leverages the power of Google’s BERT language transformer for text vectoriz
 <br>
 
 <br>
-<br>
 
 <img width="952" alt="image" src="https://github.com/shubham-skr/Deep-Learning-and-ANN-Based-Hybrid-Recommendation-System/assets/79463685/fc8a59b7-715e-4c99-9bfa-2e5d0908fb57">
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+## Reference - MACHINE LEARNING SPECIALIZATION, offered by Stanford University and DeepLearning.ai on Coursera.
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/97TPGULGSRFP">CERTIFICATE LINK</a>
 
 
 
