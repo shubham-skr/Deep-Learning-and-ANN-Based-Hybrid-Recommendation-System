@@ -1,4 +1,4 @@
-# Deep-Learning-and-ANN-Based-Hybrid-Recommendation-System
+# Hybrid-Recommendation-System using Deep Neural Network and Prompt Engineering
 #### python, sckit-learn, tensorflow, flask, BERT model
 
 <br />
